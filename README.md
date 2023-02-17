@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Atharv9997](https://github.com/Atharv9997)
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **atharvkhandke6101999@gmail.com**
