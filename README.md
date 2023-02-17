@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atharv9997](https://github.com/Atharv9997)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React JS**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **atharvkhandke6101999@gmail.com**
 
