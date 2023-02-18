@@ -1,4 +1,4 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+![MasterHead](https://github.com/Atharv9997/Atharv9997/blob/main/Banner.gif)
 <h1 align="center">Hey 👋, I'm Atharv Khandke</h1>
 <h3 align="center">A passionate Web developer from Pune, India.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
